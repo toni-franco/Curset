@@ -12,6 +12,7 @@ Text en *lletra italica*
 ````
 $ docker run  -d -P --name apache-2 tonifp/myapache:v0 
 ````
+-----
 
  [GitHub on està aquest projecte](https://github.com/toni-franco/Curset)
 
