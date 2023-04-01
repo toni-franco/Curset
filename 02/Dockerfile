@@ -5,4 +5,3 @@ WORKDIR /app
 EXPOSE 80
 COPY app.py .
 CMD  python3 /app/app.py
-
